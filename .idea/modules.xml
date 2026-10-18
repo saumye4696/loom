@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/loom.iml" filepath="$PROJECT_DIR$/loom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/loom_android.iml" filepath="$PROJECT_DIR$/android/loom_android.iml" />
+    </modules>
+  </component>
+</project>
